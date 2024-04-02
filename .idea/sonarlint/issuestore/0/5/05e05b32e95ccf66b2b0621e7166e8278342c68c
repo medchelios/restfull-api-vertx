@@ -1,0 +1,12 @@
+
+y
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "pool".(Óî…Ñ8ş®Şùé1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ì÷Øÿÿÿÿÿ8¯Şùé1
+b
+java:S1854"@Remove this useless assignment to local variable "postHandlers".(‘ Öîøÿÿÿÿ8’¯Şùé1
+S
+java:S1481"1Remove this unused "postHandlers" local variable.(‘ Öîøÿÿÿÿ8•¯Şùé1
+N
+java:S1602!",Remove useless curly braces around statement(ú—½¯şÿÿÿÿ8ÿƒøé1
+L	java:S106("+Replace this use of System.out by a logger.(›Ù’»ıÿÿÿÿ8ƒ„øé1
